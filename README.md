@@ -1,2 +1,2 @@
-# coursera_IBM_Machine_Learning
+# Coursera: IBM Machine Learning Professional Certificate
 Artefacts from the education "IBM - Machine Learning Professional Certificate" from coursera
