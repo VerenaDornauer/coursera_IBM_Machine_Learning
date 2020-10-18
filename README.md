@@ -1,6 +1,6 @@
 # Coursera: IBM Machine Learning Professional Certificate
 
-Here, yoy artifacts from the six courses of the IBM - Machine Learning Professional Certificate from coursera.
+Here, you find artifacts from the six courses of the IBM - Machine Learning Professional Certificate from coursera.
 
 The courses were as follows
 1. Eploratory Data Analysis for Machine Learning
