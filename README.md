@@ -7,7 +7,7 @@ The courses were as follows
 2. Supervised Machine Learning: Regression
 3. Supervised Machine Learning: Classification
 4. Unsupervised Learning
-5. Deep Learning andReinforcement Learning
+5. Deep Learning and Reinforcement Learning
 6. Specialized Models: Time Series and Survival Analysis
 
 Please find the artifacts (jupyter notebook file, pdf) of the end-projects of each course in the according folder.
