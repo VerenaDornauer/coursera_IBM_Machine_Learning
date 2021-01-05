@@ -3,7 +3,7 @@
 Here, you find artifacts from the six courses of the IBM - Machine Learning Professional Certificate from coursera.
 
 The courses were as follows
-1. Eploratory Data Analysis for Machine Learning
+1. Exploratory Data Analysis for Machine Learning
 2. Supervised Machine Learning: Regression
 3. Supervised Machine Learning: Classification
 4. Unsupervised Learning
