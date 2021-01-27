@@ -10,4 +10,4 @@ The courses were as follows
 5. Deep Learning and Reinforcement Learning
 6. Specialized Models: Time Series and Survival Analysis
 
-Please find the artifacts (jupyter notebook file, pdf) of the end-projects of each course in the according folder.
+Please find my artifacts (jupyter notebook file, pdf) of the end-projects of each course listed above.
